@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Assistance | Media Jockey Services</title>
+    <link>http://digitalassistance.xyz/</link>
+    <description>Recent content on Digital Assistance | Media Jockey Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://digitalassistance.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
